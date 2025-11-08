@@ -1,1 +1,20 @@
-/oraclejdk-25
+﻿# Java/JDK (exclude all JDK folders)
+oracleJdk-25/
+openJdk-25/
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+
+# IntelliJ (keep these excluded just in case)
+.idea/workspace.xml
+.idea/shelf/
+
+# Build outputs
+bin/
+target/
+build/
+.gradle/
