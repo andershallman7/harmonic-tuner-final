@@ -59,3 +59,4 @@ If Java is not installed, you'll see an error message with a link to download it
 - Adjustable reference pitch
 
 Enjoy tuning your instruments!
+-Anders Hallman :)
